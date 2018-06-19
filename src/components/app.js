@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
+import SearchBar from '../containers/search-bar';
 
 export default class App extends Component {
   render() {
     return (
-      <div>React simple starter</div>
+      <div>
+        <h1>Get a five day forecast for your city.</h1>
+        <SearchBar />
+      </div>
     );
   }
 }
