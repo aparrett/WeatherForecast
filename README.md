@@ -12,6 +12,7 @@ This sample weather application is the 3rd application you build in the [Modern 
 * [Webpack](https://github.com/webpack/webpack)
 * [Axios](https://github.com/axios/axios)
 * [Lodash](https://github.com/lodash/lodash)
+* [OpenWeatherMap](https://openweathermap.org/api)
 * [Google Maps](https://developers.google.com/maps/documentation/)
 * [React Sparklines](https://github.com/borisyankov/react-sparklines)
 
